@@ -2,7 +2,7 @@
 /**
  * main - This program prints the size of various types
  * of variables
- * Return 0 (success)
+ * Return: 0 (success)
  */
 
 int main(void)
